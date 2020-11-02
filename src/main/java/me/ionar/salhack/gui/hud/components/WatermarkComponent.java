@@ -28,7 +28,7 @@ public class WatermarkComponent extends HudComponentItem
         
         if (Reliant.getValue())
         {
-            final String l_Text = "Reliant (rel-1.12.2-Forge)";
+            final String l_Text = "slahnak";
             
             Wrapper.GetMC().fontRenderer.drawStringWithShadow(l_Text, GetX(), GetY(), 0xFFFFFF);
             
